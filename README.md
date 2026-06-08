@@ -9,11 +9,10 @@
 | Member 2 | Teddy Barclay — 23688/2024 |
 | Member 3 | Francis E Kemoh — 23710/2024 |
 
-| **Course** | E-Commerce and Web Application — EWA408510 |
-| **Lecturer** | Eric Maniraguha |
-| **Academic Year** | 2025–2026 — Semester II |
-| **Completion Date** | June 08, 2026 |
-
+| Course | E-Commerce and Web Application — EWA408510 |
+| Lecturer | Eric Maniraguha |
+| Academic Year | 2025–2026 — Semester II |
+| Completion Date | June 08, 2026 |
 ---
 
 ## 📌 Project Title
