@@ -4,10 +4,10 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Group 1
-Archie K Gonwoe Jr *| **Registration Number** | 23686/2024 |
-Teddy Barclay | **Registration Number** | 23688/2024 |
-Francis E Kemoh | **Registration Number** | 23710/2024 |
+| Group | Group 1 |
+| Member 1 | Archie K Gonwoe Jr — 23686/2024 |
+| Member 2 | Teddy Barclay — 23688/2024 |
+| Member 3 | Francis E Kemoh — 23710/2024 |
 
 | **Course** | E-Commerce and Web Application — EWA408510 |
 | **Lecturer** | Eric Maniraguha |
