@@ -1,11 +1,14 @@
 # 🛍️ KigaliStyle Shop — No-Code E-Commerce Project
 
-## 👤 Student Information
+## 👤 Students Information
 
 | Field | Details |
 |-------|---------|
-| **Name** | Teddy Barclay |
-| **Registration Number** | 23688/2024 |
+| **Name** | Group 1
+Archie K Gonwoe Jr *| **Registration Number** | 23686/2024 |
+Teddy Barclay | **Registration Number** | 23688/2024 |
+Francis E Kemoh | **Registration Number** | 23710/2024 |
+
 | **Course** | E-Commerce and Web Application — EWA408510 |
 | **Lecturer** | Eric Maniraguha |
 | **Academic Year** | 2025–2026 — Semester II |
